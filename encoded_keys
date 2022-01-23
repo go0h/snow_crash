@@ -12,10 +12,4 @@ Dc6m~;}f8Cj#xFkel;#&ycfbK
 70hCi,E44Df[A4B/J@3f<=:`D
 8_Dw"4#?+3i]q&;p6 gtw88EC
 boe]!ai0FB@.:|L6l@A?>qJ}I
-
-
-disassemble main
-break *main+50
-p $eax
-info registers
-set $eax = 3003
+g <t61:|4_|!@IF.-62FH&G~DCK/Ekrvvdwz?v|
